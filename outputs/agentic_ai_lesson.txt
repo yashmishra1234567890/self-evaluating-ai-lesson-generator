@@ -1,0 +1,146 @@
+INTRODUCTION TO AGENTIC AI
+
+Topic: Introduction to Agentic AI
+
+Target Audience: A 12th-grade Indian student with limited English vocabulary, from a non-English-medium background, with no prior knowledge of Artificial Intelligence.
+
+1. INTRODUCTION
+
+Imagine you want to book a train ticket from Delhi to Mumbai. You open an app, search for trains, pick a date, enter your details, and pay. This takes many clicks and time.
+
+Now imagine telling your phone: "Book me a train ticket from Delhi to Mumbai for next Friday." A normal AI assistant might reply with a website link or instructions. An Agentic AI can do the whole job for you. It can open the booking site, choose the train, fill in your details, and confirm the ticket.
+
+This lesson explains what Agentic AI is, how it works, and why it matters for beginners.
+
+2. WHAT IS AGENTIC AI?
+
+AI stands for Artificial Intelligence. It means computer systems that can do tasks that usually need human thinking.
+
+Most AI tools today are like chatbots. You ask a question, and they give an answer. They do not act by themselves.
+
+Agentic AI is different. It is an AI system that can act on its own to finish a goal. It can plan steps, use tools like websites or apps, and complete tasks without waiting for you to guide every click.
+
+The word "agentic" comes from "agent." An agent is a person who acts for someone else. So Agentic AI means AI that acts like an agent.
+
+Key idea: Regular AI answers questions. Agentic AI completes tasks.
+
+3. WHY IS IT IMPORTANT?
+
+It moves AI from talking to doing.
+
+It can save time on long, boring tasks.
+
+It lets people focus on important decisions while AI handles routine steps.
+
+It brings us closer to AI assistants that truly help in daily life.
+
+4. WHAT PROBLEM DOES IT SOLVE?
+
+Problem: Today's AI can give information, but it cannot take action. If you want to plan an event, you still have to open many apps, copy details, and click buttons yourself.
+
+Agentic AI solves this by handling the full process. It can browse websites, fill forms, send messages, and update calendars.
+
+Example: Planning a birthday party. Regular AI suggests cake shops and games. Agentic AI can call the bakery, book a hall, and invite friends.
+
+5. HOW DOES IT WORK?
+
+Agentic AI works in a repeating loop.
+
+Main parts:
+
+Brain: Usually an AI model trained to understand language. This is sometimes called an LLM, or Large Language Model. It thinks about what to do.
+
+Tools: Apps or websites it can use, such as a browser, email, or calculator.
+
+Memory: It remembers what it has already done.
+
+Simple loop:
+
+1. Understand the goal.
+2. Make a plan.
+3. Act using tools.
+4. Check if the task is done.
+5. Fix mistakes and try again if needed.
+
+6. STEP-BY-STEP EXPLANATION
+
+Goal: Book a doctor's appointment for next Monday.
+
+Step 1: Understand the request. The AI reads your message.
+
+Step 2: Make a plan. It breaks the task into steps: find the clinic website, check Monday slots, select a time, enter your name and phone, confirm booking.
+
+Step 3: Use tools. It opens the website, clicks on the date, and fills the form.
+
+Step 4: Check results. It sees whether the booking succeeded or failed.
+
+Step 5: Report to you. It says, "Your appointment is confirmed for Monday at 10 AM."
+
+If the website is down or a slot is taken, the AI tries another date or asks you for help.
+
+7. PRACTICAL REAL-WORLD EXAMPLE
+
+Situation: A student wants to organize a study group meeting.
+
+Regular AI: It can suggest dates and write a message to friends.
+
+Agentic AI: It can check everyone's calendars, find a free time, book a library room, send email invites, and add the meeting to all calendars.
+
+Another example: An online shopping agent that searches many websites for the best price of a book, applies discount coupons, and places the order for you.
+
+8. ADVANTAGES
+
+Completes multi-step tasks without constant human help.
+
+Works day and night.
+
+Reduces repetitive work like filling forms and copying data.
+
+Can connect different apps and websites.
+
+Helps people who are not comfortable with technology.
+
+9. LIMITATIONS
+
+Can make mistakes, such as booking the wrong date.
+
+Needs human supervision for important tasks.
+
+May access personal data, so privacy and security are concerns.
+
+Can get stuck if a website changes its design.
+
+May cost money to run.
+
+It is not perfect. It still needs clear instructions.
+
+10. KEY TAKEAWAYS
+
+Agentic AI is AI that acts, not just answers.
+
+It can plan, use tools, and complete tasks on its own.
+
+It works in a loop: understand, plan, act, check, adjust.
+
+It is useful for real tasks like booking tickets and organizing meetings.
+
+It is helpful but not perfect, so humans must supervise it.
+
+
+EVALUATION RESULTS
+
+Workflow Status: SHIPPED
+
+Run ID: 90915dc1-9f93-40ac-9fe5-df889ec0e138
+
+Total Generations: 1
+
+Retries Used: 0
+
+Passed Checkpoints: 10/10
+
+Failed Checkpoints: 0/10
+
+Final Result: Lesson successfully evaluated and approved.
+
+All checkpoints E1-E10 passed on Attempt 1.

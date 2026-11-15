@@ -1,0 +1,20 @@
+Starting controlled system-error test...
+Run ID: 40725ba2-eeb2-4f26-976d-c8837a859c0c
+
+Generating lesson...
+
+GENERATION SYSTEM ERROR: Controlled test: OpenRouter API unavailable.
+
+========== SYSTEM ERROR ==========
+Stage: generation
+Error: Controlled test: OpenRouter API unavailable.
+
+========== SYSTEM ERROR TEST RESULT ==========
+Workflow status: system_error
+Database status: system_error
+System error: Controlled test: OpenRouter API unavailable.
+Error stage: generation
+Retry count: 0
+Rejection log: []
+
+SUCCESS: System error handled correctly.

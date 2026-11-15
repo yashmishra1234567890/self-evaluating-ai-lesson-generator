@@ -1,0 +1,23 @@
+Starting controlled evaluator system-error test...
+Run ID: f65b82c6-7201-4191-b49a-b5b092e9a244
+
+Generating lesson...
+Lesson generated successfully.
+
+Evaluating lesson...
+
+EVALUATION SYSTEM ERROR: Controlled test: Evaluator API unavailable.
+
+========== SYSTEM ERROR ==========
+Stage: evaluation
+Error: Controlled test: Evaluator API unavailable.
+
+========== EVALUATOR SYSTEM ERROR TEST RESULT ==========
+Workflow status: system_error
+Database status: system_error
+System error: Controlled test: Evaluator API unavailable.
+Error stage: evaluation
+Retry count: 0
+Rejection log: []
+
+SUCCESS: Evaluator system error handled correctly.

@@ -1,0 +1,27 @@
+REJECTION WORKFLOW TEST
+
+Run ID: c6b0b89f-3720-4a8e-af4c-44019958b3aa
+
+Test Type: Controlled Rejection Test
+
+Maximum Retries: 2
+Maximum Generations: 3
+
+Attempt 1: FAILED
+Failed Checkpoint: E3
+
+Attempt 2: FAILED
+Failed Checkpoint: E3
+
+Attempt 3: FAILED
+Failed Checkpoint: E3
+
+Rejection Log: 3 entries recorded.
+
+FINAL RESULT
+
+Workflow Status: REJECTED
+Total Generations: 3
+Retries Used: 2
+
+SUCCESS: Maximum retry limit verified.

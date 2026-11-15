@@ -1,0 +1,27 @@
+RETRY WORKFLOW TEST
+
+Run ID: 48ba4951-de7d-4a59-8e0b-b6c8222b492f
+
+Test Type: Controlled Retry Test
+
+Attempt 1:
+Status: FAILED
+Failed Checkpoint: E3
+Reason: Deliberately simulated failure.
+
+Retry:
+Retry Count: 1
+Lesson regenerated successfully.
+
+Attempt 2:
+Status: PASSED
+Passed Checkpoints: 10/10
+Failed Checkpoints: 0
+
+FINAL RESULT
+
+Workflow Status: SHIPPED
+Total Generations: 2
+Retries Used: 1
+
+SUCCESS: Lesson shipped after retry.

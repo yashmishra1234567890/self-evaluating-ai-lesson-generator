@@ -1,0 +1,194 @@
+INTRODUCTION TO RAG (RETRIEVAL-AUGMENTED GENERATION)
+
+Topic: Introduction to RAG
+
+Target Audience: A 12th-grade Indian student with limited English vocabulary, from a non-English-medium background, with no prior knowledge of Artificial Intelligence.
+
+1. INTRODUCTION
+
+Imagine you ask your friend, "Who won the cricket match yesterday?" If your friend did not watch the match, they might guess. Sometimes the guess is wrong.
+
+Artificial Intelligence (AI) can do the same thing. It may answer confidently even when it does not know the correct fact.
+
+RAG is a method that helps AI find correct information before it writes an answer. It makes AI more reliable.
+
+RAG stands for Retrieval-Augmented Generation.
+
+2. WHAT IS RAG?
+
+RAG is a way to improve AI answers by giving the AI relevant information from outside sources.
+
+Let us break the name into three simple parts:
+
+Retrieval: Finding and bringing information from a stored collection.
+
+Augmented: Adding something to make it better.
+
+Generation: Creating or writing an answer.
+
+So, Retrieval-Augmented Generation means: find useful information, add it to the question, and then generate an answer.
+
+Simple analogy: Closed-book vs Open-book exam
+
+Without RAG: AI is like a student writing a closed-book exam. It answers only from what it remembers from training.
+
+With RAG: AI is like a student writing an open-book exam. It can look at textbooks or notes while answering.
+
+3. WHY IS IT IMPORTANT?
+
+AI models learn from data collected at a certain time. After that, they do not automatically know new events.
+
+RAG is important because:
+
+It gives AI access to new and updated information.
+
+It helps AI answer questions about specific topics, such as school rules or company policies.
+
+It reduces the chance of AI making up facts.
+
+It makes answers more trustworthy for students, professionals, and everyday users.
+
+4. WHAT PROBLEM DOES IT SOLVE?
+
+Here are common problems RAG solves:
+
+Outdated knowledge: AI may not know today's news or this year's exam dates.
+
+Made-up facts: AI may invent names, dates, or formulas when it is unsure.
+
+No access to private files: AI does not know your school's admission rules unless those rules are given to it.
+
+RAG solves these by letting AI search and read the right documents before replying.
+
+5. HOW DOES IT WORK?
+
+RAG works in a simple cycle:
+
+1. A user asks a question.
+
+2. The system searches a knowledge base for relevant documents.
+
+3. The system takes the useful parts from those documents.
+
+4. The system sends the user's question and those parts together to an AI model. An AI model (also called an LLM or Large Language Model) is the program that reads text and writes an answer.
+
+5. The AI model reads the provided information and writes the final answer.
+
+Analogy: Librarian and student
+
+Think of the retrieval part as a librarian. The librarian finds the right books. The generation part is the student. The student reads the books and writes the essay. RAG connects the librarian and the student.
+
+6. STEP-BY-STEP EXPLANATION
+
+Let us follow one example step by step.
+
+Question: "What is the last date to apply for the science course?"
+
+Step 1: You type your question into the system.
+
+Step 2: The system searches a knowledge base. A knowledge base is a collection of saved documents, such as PDFs, college brochures, or website pages.
+
+Step 3: It finds a document that says: "Science course applications close on 10 August 2025."
+
+Step 4: The system takes that sentence and your original question.
+
+Step 5: It sends both to the AI model: "Here is the question: What is the last date to apply for the science course? Here is the information: Science course applications close on 10 August 2025. Please answer using the information."
+
+Step 6: The AI model reads the information and writes: "The last date to apply for the science course is 10 August 2025."
+
+Step 7: You receive the answer.
+
+7. PRACTICAL REAL-WORLD EXAMPLE
+
+Scenario: A 12th-grade student wants to know the scholarship deadline for a state government scheme.
+
+Without RAG: The AI might answer from old training data. It could say the deadline was last year, or it might invent a date. The student could miss the real deadline.
+
+With RAG:
+
+The system searches the official government website PDF uploaded to the knowledge base.
+
+It finds: "Scholarship applications close on 30 September 2025."
+
+It sends this text with the question to the AI.
+
+The AI answers: "The scholarship application deadline is 30 September 2025."
+
+The student gets the correct date because the AI read the actual document first.
+
+8. ADVANTAGES
+
+Accurate answers: AI uses real documents instead of only memory.
+
+Up-to-date information: You can add new documents anytime.
+
+Specific knowledge: AI can answer about private documents, such as school notices or company handbooks.
+
+Less made-up content: It reduces false answers, though it does not remove them completely.
+
+Visible sources: The system can show which document was used, so users can check the answer.
+
+9. LIMITATIONS
+
+Depends on documents: If the stored documents are wrong or old, the answer will be wrong or old.
+
+Missing information: If the right document is not in the knowledge base, AI may still guess or say it does not know.
+
+Wrong retrieval: The system might pick a document that does not match the question well.
+
+Slower and more complex: Searching documents takes more time than answering from memory alone.
+
+Not perfect: RAG reduces hallucinations (making up false facts confidently), but it cannot guarantee that the AI will never make a mistake.
+
+10. KEY TAKEAWAYS
+
+RAG stands for Retrieval-Augmented Generation.
+
+It helps AI find correct information from outside documents before writing an answer.
+
+It is like an open-book exam for AI.
+
+The retrieved information is passed to the AI model along with the user's question.
+
+RAG improves accuracy and reduces made-up facts, but it is not perfect.
+
+It is useful when answers need to be current, specific, or based on trusted documents.
+
+
+EVALUATION RESULTS
+
+Workflow Status: SHIPPED
+
+Run ID: 9d99af86-37ba-4a67-9065-7deb3e2e4884
+
+Total Generations: 1
+
+Retries Used: 0
+
+Passed Checkpoints: 10/10
+
+Failed Checkpoints: 0/10
+
+Final Result: Lesson successfully evaluated and approved.
+
+E1: PASSED
+
+E2: PASSED
+
+E3: PASSED
+
+E4: PASSED
+
+E5: PASSED
+
+E6: PASSED
+
+E7: PASSED
+
+E8: PASSED
+
+E9: PASSED
+
+E10: PASSED
+
+All checkpoints passed on Attempt 1.
